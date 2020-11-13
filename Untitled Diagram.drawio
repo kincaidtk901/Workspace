@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T21:52:40.381Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" etag="0c1QklPVW13N-AZP6zeo" version="13.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-13T21:57:13.592Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" etag="v1d-NlM-oEe-eHE6H3j_" version="13.9.8" type="github">
   <diagram id="NBsBnvd8ooWzO1W_3-nQ" name="Page-1">
     <mxGraphModel dx="1975" dy="555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZPE_WtxlJSAoX5hBNASI-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="103" y="79" width="715" height="460" as="geometry" />
+          <mxGeometry x="103" y="79" width="358" height="527" as="geometry" />
         </mxCell>
         <mxCell id="ZPE_WtxlJSAoX5hBNASI-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="34" y="243" width="30" height="60" as="geometry" />
@@ -65,7 +65,13 @@
           <mxGeometry x="-13" y="323" width="124" height="16" as="geometry" />
         </mxCell>
         <mxCell id="ZPE_WtxlJSAoX5hBNASI-20" value="Maintain Student Records" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="217" y="400" width="117" height="54" as="geometry" />
+          <mxGeometry x="210" y="400" width="131" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPE_WtxlJSAoX5hBNASI-21" value="Register Student for Classes" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205.5" y="466" width="140" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPE_WtxlJSAoX5hBNASI-22" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="34" y="429" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
