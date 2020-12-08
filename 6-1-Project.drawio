@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T05:44:01.035Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="b_gMEZFpsu2rfAZVzc6O" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-08T19:47:47.413Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="0FjDQAlVkmHJ6ulKsbzc" version="13.10.4" type="github">
   <diagram id="oemc7NoDXvjCIODCk4Sk" name="Page-1">
     <mxGraphModel dx="1160" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="UOIlZKTl76xjUfxBEUO4-3" value="School Staff" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="288" y="160" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UOIlZKTl76xjUfxBEUO4-4" value="aSchoolWebsite : School Website" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UOIlZKTl76xjUfxBEUO4-4" value="aSchoolDB : School Database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UOIlZKTl76xjUfxBEUO4-5" value="aStudent : Student" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
