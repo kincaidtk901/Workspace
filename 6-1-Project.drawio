@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T21:42:34.268Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="6pF8ZmJBWgKH07AFJj4Q" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-08T22:34:51.925Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="644GkQ426j-5gWuqexJo" version="13.10.4" type="github">
   <diagram id="oemc7NoDXvjCIODCk4Sk" name="Page-1">
     <mxGraphModel dx="1160" dy="799" grid="0" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -281,13 +281,16 @@
           <mxGeometry x="311.25" y="691" width="157.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UOIlZKTl76xjUfxBEUO4-92" value="Register a Student Sequence Diagram" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="522.5" y="140" width="275" height="20" as="geometry" />
+          <mxGeometry x="197" y="110" width="275" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UOIlZKTl76xjUfxBEUO4-93" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="210" y="130" width="895" height="680" as="geometry" />
+          <mxGeometry x="211" y="96" width="895" height="712" as="geometry" />
         </mxCell>
         <mxCell id="UOIlZKTl76xjUfxBEUO4-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="303" y="310" width="10" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="UOIlZKTl76xjUfxBEUO4-95" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;strokeWidth=1;fillColor=none;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="211" y="97" width="250" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
