@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T03:01:24.487Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="UZ5YRBRqxNcqsXpzmt5_" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T03:02:07.288Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="bSigCfVZjCB_y45eLpv8" version="13.11.0" type="github">
   <diagram id="oemc7NoDXvjCIODCk4Sk" name="Page-1">
     <mxGraphModel dx="1160" dy="799" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -293,7 +293,7 @@
           <mxGeometry x="211" y="97" width="250" height="46" as="geometry" />
         </mxCell>
         <mxCell id="_jz2f3TDi-DaQfy5JoOm-1" value="Register a Student Communication Diagram" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1529" y="76" width="264" height="20" as="geometry" />
+          <mxGeometry x="1375" y="63" width="264" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_jz2f3TDi-DaQfy5JoOm-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1386" y="170" width="30" height="60" as="geometry" />
@@ -318,6 +318,9 @@
         </mxCell>
         <mxCell id="_jz2f3TDi-DaQfy5JoOm-10" value="aClass : Class" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1573" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_jz2f3TDi-DaQfy5JoOm-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;strokeWidth=1;fillColor=none;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="1371" y="50" width="279" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
