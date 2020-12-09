@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T03:02:07.288Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="bSigCfVZjCB_y45eLpv8" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T03:39:59.595Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="SDEE52EEGRBKlL9tD5uU" version="13.11.0" type="github">
   <diagram id="oemc7NoDXvjCIODCk4Sk" name="Page-1">
-    <mxGraphModel dx="1160" dy="799" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="812" dy="559" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -321,6 +321,15 @@
         </mxCell>
         <mxCell id="_jz2f3TDi-DaQfy5JoOm-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;strokeWidth=1;fillColor=none;direction=west;" vertex="1" parent="1">
           <mxGeometry x="1371" y="50" width="279" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="_jz2f3TDi-DaQfy5JoOm-13" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="_jz2f3TDi-DaQfy5JoOm-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1421" y="205" as="sourcePoint" />
+            <mxPoint x="1471" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_jz2f3TDi-DaQfy5JoOm-14" value="1. Login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="169" width="66" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
