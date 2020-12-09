@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T21:23:08.372Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="cmAAFxqvtDGml-O_dLcR" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T21:23:41.066Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="ILe9gKR-F_CI-scJWRsU" version="13.11.0" type="github">
   <diagram id="oemc7NoDXvjCIODCk4Sk" name="Page-1">
     <mxGraphModel dx="955" dy="658" grid="0" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -307,16 +307,16 @@
         <mxCell id="_jz2f3TDi-DaQfy5JoOm-6" value="aStaff" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1381" y="265" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_jz2f3TDi-DaQfy5JoOm-7" value="aSchoolDB : School Database" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="_jz2f3TDi-DaQfy5JoOm-7" value="aSchoolDB : School Database" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1581" y="210" width="143" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="_jz2f3TDi-DaQfy5JoOm-8" value="aStudent : Student" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="_jz2f3TDi-DaQfy5JoOm-8" value="aStudent : Student" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1897" y="132.5" width="143" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="_jz2f3TDi-DaQfy5JoOm-9" value="aCourse : Course" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="_jz2f3TDi-DaQfy5JoOm-9" value="aCourse : Course" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1943" y="252" width="131" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="_jz2f3TDi-DaQfy5JoOm-10" value="aClass : Class" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="_jz2f3TDi-DaQfy5JoOm-10" value="aClass : Class" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1803" y="345" width="121" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_jz2f3TDi-DaQfy5JoOm-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;strokeWidth=1;fillColor=none;direction=west;" vertex="1" parent="1">
