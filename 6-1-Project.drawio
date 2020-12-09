@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T21:02:42.862Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="Z3g4d0kMSf8_4PSyZjYJ" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T21:04:52.230Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="Y42YXlUzlNoG8amtvN5I" version="13.11.0" type="github">
   <diagram id="oemc7NoDXvjCIODCk4Sk" name="Page-1">
     <mxGraphModel dx="812" dy="559" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -314,10 +314,10 @@
           <mxGeometry x="1870" y="187" width="143" height="55" as="geometry" />
         </mxCell>
         <mxCell id="_jz2f3TDi-DaQfy5JoOm-9" value="aCourse : Course" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1826" y="297" width="131" height="53" as="geometry" />
+          <mxGeometry x="1771" y="338.5" width="131" height="53" as="geometry" />
         </mxCell>
         <mxCell id="_jz2f3TDi-DaQfy5JoOm-10" value="aClass : Class" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1573" y="330" width="121" height="50" as="geometry" />
+          <mxGeometry x="1529" y="330" width="121" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_jz2f3TDi-DaQfy5JoOm-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;strokeWidth=1;fillColor=none;direction=west;" vertex="1" parent="1">
           <mxGeometry x="1371" y="50" width="279" height="46" as="geometry" />
@@ -339,6 +339,15 @@
         </mxCell>
         <mxCell id="_jz2f3TDi-DaQfy5JoOm-23" value="1: Login()&amp;nbsp;&lt;b style=&quot;font-size: 10px ; color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;➡&lt;br&gt;&lt;/b&gt;3: CourseID()&amp;nbsp;&lt;b style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;➡&lt;/b&gt;&lt;b style=&quot;font-size: 10px ; color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1441" y="178" width="88" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_jz2f3TDi-DaQfy5JoOm-24" value="" style="endArrow=none;html=1;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_jz2f3TDi-DaQfy5JoOm-7" target="_jz2f3TDi-DaQfy5JoOm-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1672" y="292" as="sourcePoint" />
+            <mxPoint x="1722" y="242" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_jz2f3TDi-DaQfy5JoOm-25" value="4: &amp;nbsp;IdentifyCourse&amp;nbsp;&lt;b style=&quot;font-size: 10px ; color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;➡&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=57;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1749" y="260" width="121" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
