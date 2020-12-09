@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T02:20:36.973Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="t8SiA4YstXzvg654baDL" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T02:42:03.980Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="K4vEI19f5WK6S36Hc-EQ" version="13.11.0" type="github">
   <diagram id="oemc7NoDXvjCIODCk4Sk" name="Page-1">
     <mxGraphModel dx="1160" dy="799" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -294,6 +294,18 @@
         </mxCell>
         <mxCell id="_jz2f3TDi-DaQfy5JoOm-1" value="Register a Student Communication Diagram" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1485" y="66" width="264" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_jz2f3TDi-DaQfy5JoOm-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1386" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_jz2f3TDi-DaQfy5JoOm-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1386" y="342" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_jz2f3TDi-DaQfy5JoOm-5" value="aStudent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1381" y="190" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_jz2f3TDi-DaQfy5JoOm-6" value="aStaff" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1381" y="320" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
