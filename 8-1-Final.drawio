@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T01:47:02.256Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="kmHYGVDNZx8xT2rlDsTx" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T01:49:26.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="ZEOhd_CWUyQjB8l9kH6K" version="14.0.1" type="github">
   <diagram id="WgGNXocE23IqrcMPY2u2" name="Page-1">
-    <mxGraphModel dx="4216" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="4063" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,16 +128,16 @@
           <mxGeometry x="343.37" y="720" width="110.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3fiQfD3PMQG2XW41a9uW-62" value="Register a Student Sequence Diagram" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="206" y="113" width="275" height="20" as="geometry" />
+          <mxGeometry x="228" y="130" width="232" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3fiQfD3PMQG2XW41a9uW-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="220" y="100" width="904" height="58" as="geometry" />
+          <mxGeometry x="220" y="120" width="904" height="772" as="geometry" />
         </mxCell>
         <mxCell id="3fiQfD3PMQG2XW41a9uW-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="299" y="310" width="13" height="560" as="geometry" />
         </mxCell>
         <mxCell id="3fiQfD3PMQG2XW41a9uW-65" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;strokeWidth=1;fillColor=none;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="218.5" y="100" width="250" height="46" as="geometry" />
+          <mxGeometry x="219" y="120" width="261" height="39" as="geometry" />
         </mxCell>
         <mxCell id="3fiQfD3PMQG2XW41a9uW-70" value="Register a Student Communication Diagram" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="218" y="1112" width="264" height="20" as="geometry" />
