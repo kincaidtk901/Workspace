@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T01:46:04.209Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="K9vCQruphuzgWMkN0pPu" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T01:47:02.256Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="kmHYGVDNZx8xT2rlDsTx" version="14.0.1" type="github">
   <diagram id="WgGNXocE23IqrcMPY2u2" name="Page-1">
     <mxGraphModel dx="4216" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
           <mxGeometry x="352.5" y="638" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3fiQfD3PMQG2XW41a9uW-53" value="Class Selected" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="347.5" y="678" width="85" height="20" as="geometry" />
+          <mxGeometry x="347.5" y="679" width="85" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3fiQfD3PMQG2XW41a9uW-54" value="CourseInformation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="685" y="437" width="130" height="20" as="geometry" />
@@ -123,12 +123,6 @@
         </mxCell>
         <mxCell id="3fiQfD3PMQG2XW41a9uW-59" value="Registration Results Displayed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="486.38" y="821" width="157.25" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="3fiQfD3PMQG2XW41a9uW-60" value="" style="endArrow=classic;html=1;dashed=1;entryX=0.943;entryY=0.916;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480.57" y="698.3199999999999" as="sourcePoint" />
-            <mxPoint x="313.0000000000003" y="698" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="3fiQfD3PMQG2XW41a9uW-61" value="VerifyRegistration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="343.37" y="720" width="110.25" height="20" as="geometry" />
@@ -341,6 +335,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="311.99999999999966" y="805.6799999999998" as="sourcePoint" />
             <mxPoint x="655.14" y="807" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3fiQfD3PMQG2XW41a9uW-180" value="" style="endArrow=classic;html=1;dashed=1;entryX=0.943;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="479.5699999999997" y="698" as="sourcePoint" />
+            <mxPoint x="312" y="698.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
