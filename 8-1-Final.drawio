@@ -1,14 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T21:22:57.440Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="kjPB9Xci8ikQ4azINQEg" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T22:27:16.010Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="RnIgc0QhSLLt5xop_PGJ" version="14.0.1" type="github">
   <diagram id="WgGNXocE23IqrcMPY2u2" name="Page-1">
-    <mxGraphModel dx="1145" dy="716" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1309" dy="819" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3fiQfD3PMQG2XW41a9uW-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="290.5" y="234" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3fiQfD3PMQG2XW41a9uW-2" value="Authenticated User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="226.5" y="214" width="158" height="20" as="geometry" />
+          <mxGeometry x="285" y="236.52" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3fiQfD3PMQG2XW41a9uW-3" value="aRegister : Register Student" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="420" y="296.52" width="120" height="40" as="geometry" />
@@ -101,16 +98,16 @@
           <mxGeometry x="343.19" y="761" width="110.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3fiQfD3PMQG2XW41a9uW-62" value="Register a Student Sequence Diagram SD-01-001" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="200" y="162.5" width="381" height="20" as="geometry" />
+          <mxGeometry x="214" y="190" width="297" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3fiQfD3PMQG2XW41a9uW-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="153" width="902" height="801" as="geometry" />
+          <mxGeometry x="192" y="180" width="940" height="774" as="geometry" />
         </mxCell>
         <mxCell id="3fiQfD3PMQG2XW41a9uW-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="299" y="320" width="13" height="600" as="geometry" />
+          <mxGeometry x="299" y="350" width="13" height="570" as="geometry" />
         </mxCell>
         <mxCell id="3fiQfD3PMQG2XW41a9uW-65" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;strokeWidth=1;direction=west;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="153" width="341" height="39" as="geometry" />
+          <mxGeometry x="192" y="180.5" width="341" height="39" as="geometry" />
         </mxCell>
         <mxCell id="3fiQfD3PMQG2XW41a9uW-70" value="Register a Student Communication Diagram CD-01-001" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1271.25" y="138" width="334.5" height="20" as="geometry" />
@@ -310,6 +307,9 @@
             <mxPoint x="479" y="920" as="sourcePoint" />
             <mxPoint x="479.47" y="751.01" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3fiQfD3PMQG2XW41a9uW-216" value="Authenticated User" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="240" y="296.52" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
