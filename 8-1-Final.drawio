@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T03:00:57.163Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="L3PfNOqj9orGIRq-Oibn" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T03:01:28.422Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="dNEeRBUad9B5j_--p15X" version="14.0.1" type="github">
   <diagram id="WgGNXocE23IqrcMPY2u2" name="Page-1">
-    <mxGraphModel dx="1018" dy="637" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="2036" dy="1273" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,9 +160,6 @@
         <mxCell id="3fiQfD3PMQG2XW41a9uW-79" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;strokeWidth=1;fillColor=none;direction=west;" vertex="1" parent="1">
           <mxGeometry x="210" y="1100" width="295" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="3fiQfD3PMQG2XW41a9uW-81" value="2: &amp;nbsp;IdentifyStudent()&amp;nbsp;&lt;b style=&quot;font-size: 10px ; color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;➡&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=332;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="28" y="1469" width="121" height="18" as="geometry" />
-        </mxCell>
         <mxCell id="3fiQfD3PMQG2XW41a9uW-82" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="3fiQfD3PMQG2XW41a9uW-75" source="3fiQfD3PMQG2XW41a9uW-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="342" y="1316" as="sourcePoint" />
@@ -171,9 +168,6 @@
         </mxCell>
         <mxCell id="3fiQfD3PMQG2XW41a9uW-85" value="4: &amp;nbsp;IdentifyFutureClasses&amp;nbsp;&lt;b style=&quot;font-size: 10px ; color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;➡&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="829" y="1359" width="138" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="3fiQfD3PMQG2XW41a9uW-86" value="4: &amp;nbsp;IdentifyCourse()&amp;nbsp;&lt;b style=&quot;font-size: 10px ; color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;➡&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=10;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="49" y="1504" width="121" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3fiQfD3PMQG2XW41a9uW-89" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 10px ; font-style: normal ; font-weight: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; text-decoration: none ; display: inline ; float: none&quot;&gt;1: Login()&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;font-size: 10px ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-decoration: none ; color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;➡&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: center&quot;&gt;5: EnterFutureClasses()&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;➡&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: center&quot;&gt;6: ClassSelection()&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;➡&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; text-align: center&quot;&gt;7: VerifyRegistration()&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;➡&lt;/b&gt;&lt;b style=&quot;font-size: 10px ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-decoration: none ; color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;&lt;br&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;rotation=337.5;" vertex="1" parent="1">
           <mxGeometry x="390" y="1190" width="127.26" height="66" as="geometry" />
